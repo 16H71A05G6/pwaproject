@@ -1,0 +1,55 @@
+{"details":{
+  "image":"profile1.png",
+  "name":"teju",
+  "phno":"8074760210",
+  "email":"tejaravelli5@gmail.com",
+  "Address":" tiruvuru,krishna dt."
+},
+"career":{
+  "info":"to place in a secure company with good salery"
+},
+"education":[{
+  "qualification":"B.Tech",
+  "institute":"MIC College",
+  "year":"2016-2020",
+  "percentage":"73%"
+  },
+{
+  "qualification":"intermediate",
+  "institute":"Nagarjuna",
+  "year":"2012-2014",
+  "percentage":"96%"
+  },
+{
+  "qualification":"SSC",
+  "institute":"vignan",
+  "year":"2008-2012",
+  "percentage":"95%"
+}
+],
+"skills":[{
+  "title":"programming language",
+  "info":["C,C++,java,R,python"]
+},
+{
+  "title":"Databases",
+  "info":["oracle,SQL,MySQL"]
+},
+{
+  "title":"operating Systems",
+  "info":["windows,linux,ubuntu,Android"]
+}
+],
+"achievements":[{
+  "title":"prises",
+  "info":["poster prentation at usha rama college"]
+  },
+{
+  "info":["paper presentation at MIC college"]
+},
+{
+  "title":"extra carrcular activities",
+  "info":["singing,listening to music"]
+}
+]
+}
